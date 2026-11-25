@@ -1,0 +1,12 @@
+## Interface: 16001, 11509
+## Title: wb_Notes
+## Notes: A floating notes window with markdown formatting, autosave and undo. Type /wbnotes.
+## IconTexture: 134327
+## Author: Will
+## Version: 1.0
+## OptionalDeps: wb_SidePanel
+## SavedVariables: WBN_DB
+
+Markdown.lua
+Notes.lua
+MinimapButton.lua

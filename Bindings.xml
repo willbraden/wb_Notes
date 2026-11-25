@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="WBNOTES_TOGGLE" header="WBNOTES" category="ADDONS">
+    WBNotes_Toggle()
+  </Binding>
+</Bindings>
